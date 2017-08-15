@@ -8,7 +8,7 @@ import java.util.Random;
  * Created by Blago on 14.08.2017.
  */
 public class StartRifma extends JFrame implements ActionListener {
-    final String TITLE_OF_PROGRAM = "Рифмаплет";
+    final String TITLE_OF_PROGRAM = "Рифмоплет  © SergeyYan";
     final int START_LOCATION = 200;
     final int WINDOW_WIGHT = 640;
     final int WINDOW_HEIGHT = 480;
@@ -58,4 +58,3 @@ public class StartRifma extends JFrame implements ActionListener {
         message.requestFocusInWindow();
     }
 }
-
